@@ -1,17 +1,18 @@
 {
-  "vaultName": "Ennimiro",
-  "lastExport": 1726356749944,
+  "vaultName": "Xynophod",
+  "lastExport": 1726358045103,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon highlightr-none AT-row",
   "useCustomHeadContent": false,
   "useCustomFavicon": true,
   "files": [
-    "An Ennimiro/Cluster.md",
+    "Arth Xynophod/Cluster.md",
+    "Arth Xynophod/Xynophod.md",
     "Divisions/Eisterra.md",
     "Entities/Noids.md",
     "Entities/Terrans.md",
     "Stones/Untitled.md",
-    "Z/Lexicon/V.md",
+    "X/Lexicon/Lexicon of The Xynophod.md",
     "Cryptaur.md",
     "Index.md",
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -67,195 +68,201 @@
   ],
   "fileInfo": {
     "Divisions/Eisterra.md": {
-      "modifiedTime": 1726356749944,
-      "sourceSize": 594,
+      "modifiedTime": 1726358045103,
+      "sourceSize": 595,
       "exportedPath": "divisions/eisterra.html",
       "dependencies": []
     },
     "Stones/Untitled.md": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 12,
       "exportedPath": "stones/untitled.html",
       "dependencies": []
     },
-    "Z/Lexicon/V.md": {
-      "modifiedTime": 1726356749944,
-      "sourceSize": 194,
-      "exportedPath": "z/lexicon/v.html",
-      "dependencies": []
-    },
     "Index.md": {
-      "modifiedTime": 1726356749944,
-      "sourceSize": 43,
+      "modifiedTime": 1726358045103,
+      "sourceSize": 47,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1726356749944,
-      "sourceSize": 19414,
+      "modifiedTime": 1726358045103,
+      "sourceSize": 21314,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 91861,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 6178,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 748,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "Cryptaur.md": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 639,
       "exportedPath": "cryptaur.html",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 10077,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "Entities/Noids.md": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 49,
       "exportedPath": "entities/noids.html",
       "dependencies": []
     },
     "Entities/Terrans.md": {
-      "modifiedTime": 1726356749944,
+      "modifiedTime": 1726358045103,
       "sourceSize": 49,
       "exportedPath": "entities/terrans.html",
       "dependencies": []
     },
-    "An Ennimiro/Cluster.md": {
-      "modifiedTime": 1726356749944,
-      "sourceSize": 55,
-      "exportedPath": "an-ennimiro/cluster.html",
+    "Arth Xynophod/Cluster.md": {
+      "modifiedTime": 1726358045103,
+      "sourceSize": 59,
+      "exportedPath": "arth-xynophod/cluster.html",
+      "dependencies": []
+    },
+    "Arth Xynophod/Xynophod.md": {
+      "modifiedTime": 1726358045103,
+      "sourceSize": 46,
+      "exportedPath": "arth-xynophod/xynophod.html",
+      "dependencies": []
+    },
+    "X/Lexicon/Lexicon of The Xynophod.md": {
+      "modifiedTime": 1726358045103,
+      "sourceSize": 259,
+      "exportedPath": "x/lexicon/lexicon-of-the-xynophod.html",
       "dependencies": []
     }
   }
